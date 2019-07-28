@@ -5,7 +5,7 @@ end
 
 
   def summon_captain_planet(array)
-  array.map {|n| return "#{n}!"}
+  array.map {|n| puts "#{n}!"}
   
   end 
 end
