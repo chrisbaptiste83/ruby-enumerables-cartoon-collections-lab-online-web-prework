@@ -5,8 +5,7 @@ end
 
 
   def summon_captain_planet(array)
-  array.map {|n| "n.upcase + !"}
-  
+  array.map {|n| "n.upcase + "!"""}
   end 
 end
 
