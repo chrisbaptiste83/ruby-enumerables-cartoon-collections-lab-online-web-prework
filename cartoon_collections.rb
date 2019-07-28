@@ -5,7 +5,7 @@ end
 
 
   def summon_captain_planet(array)
-  array.map {|name| puts "name.upcase!"} 
+  array.map {|name| return "name.upcase!"} 
 end
 
 def long_planeteer_calls(array) 
